@@ -200,8 +200,8 @@
                  "type":"",
                  "visible":true,
                  "width":14.1092260573316,
-                 "x":159.820560187127,
-                 "y":292.357283508573
+                 "x":160.991401729486,
+                 "y":256.061195695457
                 }, 
                 {
                  "height":14.0438124923389,
@@ -255,8 +255,8 @@
                  "type":"",
                  "visible":true,
                  "width":16.2783599552345,
-                 "x":49.497222659461,
-                 "y":52.4315110741694
+                 "x":48.3263811171024,
+                 "y":47.7481449047351
                 }, 
                 {
                  "height":309.688530618056,
@@ -345,7 +345,7 @@
  "nextobjectid":49,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.10.1",
+ "tiledversion":"1.8.4",
  "tileheight":16,
  "tilesets":[
         {
@@ -357,7 +357,7 @@
          "margin":0,
          "name":"Sunnyside V3",
          "spacing":0,
-         "tilecount":4,
+         "tilecount":4096,
          "tileheight":16,
          "tiles":[
                 {
@@ -445,6 +445,6 @@
         }],
  "tilewidth":16,
  "type":"map",
- "version":"1.10",
+ "version":"1.8",
  "width":26
 }
